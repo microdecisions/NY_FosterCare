@@ -10,9 +10,10 @@ The Docs!
 Resources: 
 ----------
 NY_FosterCare has the follwing resources:
-1- The full dataset, was renamed (NY_FosterCare)
-3- Background of NY Foster Care, and data dictionary.
-* Socrata API JSON, but was not used in this sample
+1- The full dataset, was renamed (NY_FosterCare), in Data folder
+2- Background of NY Foster Care,
+3- The data dictionary.
+* Socrata API JSON is available in the source page, but was not used in this sample.
 
 
 Requirements
